@@ -1,4 +1,4 @@
-# Monthly Revenue & Product Sales Performance Report
+# Monthly Revenue & Product Sales Performance Report with PowerBI
 
 ## Project Overview
 This project features a multi-page **Power BI** dashboard designed to track and analyze the financial performance of a retail operation for a specific monthly period. The report provides a "gangan" (major) overview of revenue streams, profitability, and customer behavior to help management optimize sales strategies.
